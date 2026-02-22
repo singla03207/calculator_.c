@@ -11,7 +11,7 @@ This is a simple calculator program written in C.
 
 ## How it works
 The program takes two integers and an operator as input
-and performs the selected arithmetic operation using switch case.
+and performs the selected arithmetic operation using both switch case and with help of functions.
 
 ## Language
 - C (GCC compiler)
